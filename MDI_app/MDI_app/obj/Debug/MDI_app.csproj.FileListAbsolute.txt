@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\bin\Debug\MDI_app.exe.config
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\bin\Debug\MDI_app.exe
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\bin\Debug\MDI_app.pdb
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.Form1.resources
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.Properties.Resources.resources
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.exe
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.pdb
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.blank.resources
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.FindForm.resources
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.About.resources
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\bin\Debug\ScintillaNET.pdb
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\bin\Debug\ScintillaNET.xml
+C:\Users\HP\Desktop\home\Programming\C#\MDI_app\MDI_app\obj\Debug\MDI_app.csproj.CopyComplete
